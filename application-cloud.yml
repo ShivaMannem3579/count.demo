@@ -6,3 +6,11 @@ server:
 spring:
   application:
     name: count-demo
+
+security:
+  basic:
+    enabled: false
+
+management:
+  security:
+    enabled: false
