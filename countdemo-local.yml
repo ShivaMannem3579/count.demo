@@ -1,0 +1,5 @@
+demo:
+  count: 4
+server:
+  context-path: /count.demo
+  port: 8181
